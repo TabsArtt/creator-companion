@@ -14,7 +14,7 @@ The Creator Companion will be installed into your "%LOCALAPPDATA%\Programs" fold
 ## Requirements
 The Creator Companion will check that Unity and Unity Hub are installed on launch. If it is needed, you will be guided through how to install both. If you follow these instructions, you will get the latest version of the Unity Hub and the current VRChat-SDK-Compatible version of Unity.
 
-The Creator Companion is only fully-supported on Windows 10 (Windows 11 might work but it's not fully tested). The [CLI has some functionality on Mac and Linux](vpm/cli#mac-and-linux-support).
+The Creator Companion is only fully supported on Windows 10 (Windows 11 might work but it's not fully tested). The [CLI has some functionality on Mac and Linux](vpm/cli#mac-and-linux-support).
 
 ### Unity Editor Versions
 The Creator Companion requires our currently supported Unity Version. It will automatically try to find it on your hard drive, or it can help you install it.
